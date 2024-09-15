@@ -103,3 +103,11 @@ The backend will be running at ```http://localhost:5000```.
 
 The frontend will be served at ```http://localhost:8080``` (or another port specified by ```live-server```).
 
+## 📦 API Endpoints
+
+## User Authentication
+
+- **POST** ```/api/auth/register```: Register a new user.
+
+- **POST** ```/api/auth/login```: Login with an existing user.
+
