@@ -121,3 +121,12 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 - **GET** ```/api/cart```: View all items in the cart.
 
+## 🎨 Frontend Pages
+
+Home Page: Displays a welcome message and allows users to browse cakes.
+
+Product Page: Displays available cakes.
+
+Cart Page: Displays the items added to the cart.
+
+Checkout Page: Collects shipping information.
