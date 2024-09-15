@@ -88,3 +88,10 @@ The backend will be running at ```http://localhost:5000```.
    ```
    npx nodemon app.js
    ```
+
+2. If you are using npm for AngularJS, install the dependencies:
+
+    ```
+    npm install
+    ```
+
