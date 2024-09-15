@@ -79,3 +79,7 @@ or if you have ```nodemon``` installed:
 npx nodemon app.js
 ```
 
+The backend will be running at ```http://localhost:5000```.
+
+## Frontend Setup (AngularJS)
+
