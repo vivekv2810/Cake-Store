@@ -111,3 +111,13 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 - **POST** ```/api/auth/login```: Login with an existing user.
 
+**Product Management**
+
+- **GET** ```/api/products```: Fetch all cake products.
+
+**Cart Management**
+
+- **POST** ```/api/cart```: Add a product to the cart.
+
+- **GET** ```/api/cart```: View all items in the cart.
+
