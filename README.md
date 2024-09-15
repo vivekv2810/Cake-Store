@@ -3,7 +3,7 @@
 Cake Store is a full-stack web application built to sell various cakes from around the world. It includes user authentication (registration and login), product display, cart functionality, and shipping address collection. 
 
 ## 🎯 Project Aim
-
+      
 The aim of this project is to build a website where users can browse cakes, add items to their cart, and complete the purchase with proper registration and login functionalities.
 
 ## 🛠 Tech Stack
