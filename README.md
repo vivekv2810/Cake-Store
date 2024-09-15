@@ -149,5 +149,5 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [LICENSE](LICENSE).
 
