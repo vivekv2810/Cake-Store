@@ -143,7 +143,7 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 - **cors**: For handling CORS issues
 
-## Frontend Dependencies
+## Frontend Dependencies 
 
 - **AngularJS**: Framework for building the frontend application
 
