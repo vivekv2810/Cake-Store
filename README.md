@@ -72,3 +72,10 @@ Cake-Store/
    ```
    node app.js
    ```
+
+or if you have ```nodemon``` installed:
+
+```
+npx nodemon app.js
+```
+
