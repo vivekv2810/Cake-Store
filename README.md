@@ -105,7 +105,7 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 ## 📦 API Endpoints
 
-## User Authentication
+**User Authentication**
 
 - **POST** ```/api/auth/register```: Register a new user.
 
