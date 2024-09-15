@@ -56,7 +56,19 @@ Cake-Store/
 ### Backend Setup (Node.js)
 
 1. Navigate to the `backend` directory:
+
    ```
    cd Cake-Store/backend
    ```
 
+2. Install the required dependencies:
+
+   ```
+   npm install
+   ```
+
+3. Start the server:
+
+   ```
+   node app.js
+   ```
