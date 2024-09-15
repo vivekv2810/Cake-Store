@@ -159,3 +159,6 @@ This project is open-source and available under the [LICENSE](LICENSE).
 
 - Add cake reviews and ratings feature.
 
+## 🛠️ Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
