@@ -151,3 +151,10 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 This project is open-source and available under the [LICENSE](LICENSE).
 
+## 💡 Future Improvements
+
+Add a real database like MongoDB for user and product storage.
+
+Implement payment gateway integration.
+
+Add cake reviews and ratings feature.
