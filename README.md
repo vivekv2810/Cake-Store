@@ -95,3 +95,9 @@ The backend will be running at ```http://localhost:5000```.
     npm install
     ```
 
+3. Serve the frontend using a tool like ```live-server```:
+
+    ```
+    live-server
+    ```
+
