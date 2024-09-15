@@ -22,3 +22,27 @@ The aim of this project is to build a website where users can browse cakes, add 
 
 ## 📁 Folder Structure
 
+```
+Cake-Store/
+│
+├── backend/
+│   ├── models/
+│   │   └── User.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   └── product.js
+│   ├── app.js
+│   └── package.json
+│
+├── frontend/
+│   ├── index.html
+│   ├── app.js
+│   ├── styles.css
+│   ├── components/
+│   │   ├── home.component.html
+│   │   └── home.component.css
+│   └── package.json
+│
+└── README.md
+```
+
