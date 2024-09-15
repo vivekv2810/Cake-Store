@@ -46,3 +46,17 @@ Cake-Store/
 └── README.md
 ```
 
+## 🖥️ Installation & Setup
+
+### Prerequisites
+
+- **Node.js**: Ensure that Node.js and npm are installed on your system.
+- **AngularJS**: The frontend is built with AngularJS, so you can use a CDN or install it via npm.
+
+### Backend Setup (Node.js)
+
+1. Navigate to the `backend` directory:
+   ```
+   cd Cake-Store/backend
+   ```
+
