@@ -123,10 +123,23 @@ The frontend will be served at ```http://localhost:8080``` (or another port spec
 
 ## 🎨 Frontend Pages
 
-Home Page: Displays a welcome message and allows users to browse cakes.
+- **Home Page**: Displays a welcome message and allows users to browse cakes.
 
-Product Page: Displays available cakes.
+- **Product Page**: Displays available cakes.
 
-Cart Page: Displays the items added to the cart.
+- **Cart Page**: Displays the items added to the cart.
 
-Checkout Page: Collects shipping information.
+- **Checkout Page**: Collects shipping information.
+
+## 🔧 Dependencies
+
+**Backend Dependencies**
+
+- **express**: Web framework for Node.js
+
+- **bcryptjs**: Library for hashing passwords
+
+- **jsonwebtoken**: JWT token for authentication
+
+- **cors**: For handling CORS issues
+
