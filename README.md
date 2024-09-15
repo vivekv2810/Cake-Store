@@ -83,3 +83,8 @@ The backend will be running at ```http://localhost:5000```.
 
 ## Frontend Setup (AngularJS)
 
+1. Navigate to the ```frontend``` directory:
+
+   ```
+   npx nodemon app.js
+   ```
